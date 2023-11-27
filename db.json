@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "firstName": "Madhumiga",
+      "lastName": "V",
+      "email": "727722euit100@skcet.ac.in",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "firstName": "Madhumiga",
+      "lastName": "V",
+      "email": "madhumiga@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "firstName": "Madhulekha",
+      "lastName": "B",
+      "email": "madhulekha@gmail.com",
+      "password": "12345",
+      "id": 3
+    }
+  ]
+}
